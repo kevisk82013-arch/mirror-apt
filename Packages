@@ -1,14 +1,14 @@
 Package: mirror-signage
-Version: 2.6.4
+Version: 2.7.0
 Architecture: all
 Maintainer: Mirror Marketing <mosorio@mirrormarketing.com.co>
 Depends: python3 (>= 3.7), mpv, libblas3, liblapack3, python3-serial, python3-feedparser
 Recommends: tailscale, network-manager
-Filename: ./mirror-signage_2.6.4_all.deb
-Size: 26976
-MD5sum: e43785757288d2ec1567d14337eaff8e
-SHA1: 1a533f83c9809cdae7a7692f51cb84061fd7987c
-SHA256: 9b9d9ca0d6a2384114c9866cff88ebe24de18a0e5d715a3abec24cee152a3d68
+Filename: ./mirror-signage_2.7.0_all.deb
+Size: 27892
+MD5sum: d48d7940adb93587ae70a2ce71799d49
+SHA1: 49d014adadb345ad3844b8fea8d1a1994a3e5662
+SHA256: 81824f4f7778ab8d4ca6c1d074415517cfb6efd4869eab1c8bd8d326a1a4e60f
 Section: video
 Priority: optional
 Description: Espejo interactivo con sensor de presencia

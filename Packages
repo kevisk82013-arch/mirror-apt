@@ -340,3 +340,21 @@ Description: Espejo interactivo con sensor de presencia
  conteo de impactos en SQLite y agente de flota (semaforo, pauta remota,
  actualizaciones en linea).
 
+Package: mirror-signage
+Version: 2.9.1
+Architecture: all
+Maintainer: Mirror Marketing <mosorio@mirrormarketing.com.co>
+Depends: python3 (>= 3.7), mpv, libblas3, liblapack3, python3-serial, python3-feedparser
+Recommends: tailscale, network-manager
+Filename: ./mirror-signage_2.9.1_all.deb
+Size: 31164
+MD5sum: 2f2dda589562de23c895dcf3e1395ff5
+SHA1: 11869d5c6a2d40306db0c8c6f669ec9b69e91b04
+SHA256: 54ddd8f4bc221a2237b16d0aa970ca517ed4109b75dc8a5682b71b428d688bfa
+Section: video
+Priority: optional
+Description: Espejo interactivo con sensor de presencia
+ Reproductor de estados 1/2 con mpv, sincronizacion entre espejos por UDP,
+ conteo de impactos en SQLite y agente de flota (semaforo, pauta remota,
+ actualizaciones en linea).
+
